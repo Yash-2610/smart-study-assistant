@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+vectorstore/
+temp_db/
+uploads/
+
+.vscode/
+
+.env
+
+*.sqlite3
+
